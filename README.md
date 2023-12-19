@@ -12,7 +12,7 @@ The instance methods are as follows:
 - `solve()`
     - the instance method to call on the `Solver` object to attempt to solve Sudoku
     - Will return true if the Sudoku was correctly solved (false otherwise)
-- `isValid`
+- `isValid()`
     - instance method to check if the current `this.board` is a valid board meaning it doesn't have any invalid number locations
-- `print`
+- `print()`
     - simple instance method to print the current value of `this.board` to the console
